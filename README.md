@@ -27,12 +27,12 @@
 <img src="https://img.shields.io/badge/epicgames-313131?style=for-the-badge&logo=spotify&logoColor=white">
 <br />
 <br />
+<br />
 ## sns
 <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=spotify&logoColor=white">
 <img src="https://img.shields.io/badge/tumblr-36465D?style=for-the-badge&logo=spotify&logoColor=white">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=spotify&logoColor=white">
 <img src="https://img.shields.io/badge/line-00C300?style=for-the-badge&logo=spotify&logoColor=white">
-
 <br />
 <br />
 
