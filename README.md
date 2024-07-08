@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img alt="Python" src ="https://img.shields.io/badge/Spotify-#1DB954.svg?&style=for-the-badge&logo=Sporify&logoColor=#1DB954"/>
--->
+
+## use music app
+#### I use it often.
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/sp-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
