@@ -15,9 +15,11 @@
 <br />
 <br />
 ## use music app
-#### I use it often.
+#### I use that
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=spotify&logoColor=white">
+
 
 </div>
 <br />
